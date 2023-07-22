@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programmer24680.
 - 👀 I’m interested in building apps and games for windows and android.
-- 🌱 I’m currently learning python and java.
+- 🌱 I’m currently learning python.
 - 📫 Reach me at codenprogrammers@gmail.com
 
 <!---
